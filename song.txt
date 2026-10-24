@@ -9,3 +9,13 @@ A tiny repo with a lot of heart.
 Chorus:
 Commit by commit, line by line,
 Push it to the server, it will be fine.
+
+Verse 2:
+The tests are red, the bugs are near,
+I read the logs and the cause is clear.
+A tiny fix and a pull request,
+The pipeline's green, I can finally rest.
+
+Chorus:
+Commit by commit, line by line,
+Pull it from the server, now the song is mine.
